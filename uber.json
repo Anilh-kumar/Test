@@ -1,5 +1,5 @@
 {
-  "swagger": "2.1",
+  "swagger": "2.0",
   "info": {
     "title": "Uber API",
     "description": "Move your app forward with the Uber API",
@@ -9,7 +9,7 @@
   "schemes": [
     "https"
   ],
-  "basePath": "/v1",
+  "basePath": "/v2",
   "produces": [
     "application/json"
   ],
