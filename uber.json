@@ -1,5 +1,5 @@
 {
-  "swagger": "2.0",
+  "swagger": "1.0",
   "info": {
     "title": "Uber API TEST with API",
     "description": "Move your app forward with the Uber API",
